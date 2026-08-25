@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymisal18/leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/jaymisal18/leet_code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/jaymisal18/leet_code/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jaymisal18/leet_code/tree/master/0141-linked-list-cycle) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/jaymisal18/leet_code/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
