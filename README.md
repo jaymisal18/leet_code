@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jaymisal18/leet_code/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/jaymisal18/leet_code/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/jaymisal18/leet_code/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/jaymisal18/leet_code/tree/master/0541-reverse-string-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/jaymisal18/leet_code/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/jaymisal18/leet_code/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/jaymisal18/leet_code/tree/master/0541-reverse-string-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jaymisal18/leet_code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
