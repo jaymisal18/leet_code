@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jaymisal18/leet_code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0135-candy](https://github.com/jaymisal18/leet_code/tree/master/0135-candy) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jaymisal18/leet_code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymisal18/leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaymisal18/leet_code/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jaymisal18/leet_code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/jaymisal18/leet_code/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
