@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jaymisal18/leet_code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jaymisal18/leet_code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/jaymisal18/leet_code/tree/master/0541-reverse-string-ii) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/jaymisal18/leet_code/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/jaymisal18/leet_code/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/jaymisal18/leet_code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jaymisal18/leet_code/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jaymisal18/leet_code/tree/master/0237-delete-node-in-a-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/jaymisal18/leet_code/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/jaymisal18/leet_code/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
