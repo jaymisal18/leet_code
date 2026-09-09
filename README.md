@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jaymisal18/leet_code/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/jaymisal18/leet_code/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jaymisal18/leet_code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/jaymisal18/leet_code/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/jaymisal18/leet_code/tree/master/0135-candy) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/jaymisal18/leet_code/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/jaymisal18/leet_code/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/jaymisal18/leet_code/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/jaymisal18/leet_code/tree/master/0234-palindrome-linked-list) |
