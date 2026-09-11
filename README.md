@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/jaymisal18/leet_code/tree/master/1480-running-sum-of-1d-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jaymisal18/leet_code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymisal18/leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jaymisal18/leet_code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaymisal18/leet_code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jaymisal18/leet_code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jaymisal18/leet_code/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -79,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/jaymisal18/leet_code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jaymisal18/leet_code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jaymisal18/leet_code/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jaymisal18/leet_code/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jaymisal18/leet_code/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/jaymisal18/leet_code/tree/master/0141-linked-list-cycle) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jaymisal18/leet_code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaymisal18/leet_code/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jaymisal18/leet_code/tree/master/0075-sort-colors) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/jaymisal18/leet_code/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
