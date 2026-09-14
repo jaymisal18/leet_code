@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jaymisal18/leet_code/tree/master/0007-reverse-integer) |
+| [0836-rectangle-overlap](https://github.com/jaymisal18/leet_code/tree/master/0836-rectangle-overlap) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymisal18/leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jaymisal18/leet_code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/jaymisal18/leet_code/tree/master/3870-count-commas-in-range) |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaymisal18/leet_code/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/jaymisal18/leet_code/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
