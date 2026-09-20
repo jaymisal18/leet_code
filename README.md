@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/jaymisal18/leet_code/tree/master/0541-reverse-string-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/jaymisal18/leet_code/tree/master/1021-remove-outermost-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jaymisal18/leet_code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/jaymisal18/leet_code/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/jaymisal18/leet_code/tree/master/0836-rectangle-overlap) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/jaymisal18/leet_code/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
