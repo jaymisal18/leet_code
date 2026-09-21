@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jaymisal18/leet_code/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/jaymisal18/leet_code/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/jaymisal18/leet_code/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jaymisal18/leet_code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jaymisal18/leet_code/tree/master/0035-search-insert-position) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/jaymisal18/leet_code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jaymisal18/leet_code/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/jaymisal18/leet_code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/jaymisal18/leet_code/tree/master/0541-reverse-string-ii) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/jaymisal18/leet_code/tree/master/3498-reverse-degree-of-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/jaymisal18/leet_code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
