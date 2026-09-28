@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymisal18/leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaymisal18/leet_code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaymisal18/leet_code/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3838-weighted-word-mapping](https://github.com/jaymisal18/leet_code/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jaymisal18/leet_code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jaymisal18/leet_code/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/jaymisal18/leet_code/tree/master/3903-smallest-stable-index-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/jaymisal18/leet_code/tree/master/1021-remove-outermost-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jaymisal18/leet_code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/jaymisal18/leet_code/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/jaymisal18/leet_code/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/jaymisal18/leet_code/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/jaymisal18/leet_code/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
