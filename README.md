@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jaymisal18/leet_code/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/jaymisal18/leet_code/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/jaymisal18/leet_code/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/jaymisal18/leet_code/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/jaymisal18/leet_code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/jaymisal18/leet_code/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/jaymisal18/leet_code/tree/master/0704-binary-search) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jaymisal18/leet_code/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/jaymisal18/leet_code/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/jaymisal18/leet_code/tree/master/0217-contains-duplicate) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaymisal18/leet_code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaymisal18/leet_code/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Floyd's Cycle Finding Algorithm
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/jaymisal18/leet_code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jaymisal18/leet_code/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/jaymisal18/leet_code/tree/master/0217-contains-duplicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jaymisal18/leet_code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Greedy
 |  |
