@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/jaymisal18/leet_code/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/jaymisal18/leet_code/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/jaymisal18/leet_code/tree/master/0043-multiply-strings) |
 | [0836-rectangle-overlap](https://github.com/jaymisal18/leet_code/tree/master/0836-rectangle-overlap) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymisal18/leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jaymisal18/leet_code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jaymisal18/leet_code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jaymisal18/leet_code/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/jaymisal18/leet_code/tree/master/0043-multiply-strings) |
 | [0344-reverse-string](https://github.com/jaymisal18/leet_code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/jaymisal18/leet_code/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/jaymisal18/leet_code/tree/master/0678-valid-parenthesis-string) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jaymisal18/leet_code/tree/master/0043-multiply-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/jaymisal18/leet_code/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/jaymisal18/leet_code/tree/master/3838-weighted-word-mapping) |
 ## Trie
