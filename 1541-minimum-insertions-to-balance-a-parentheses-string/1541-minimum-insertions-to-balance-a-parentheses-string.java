@@ -1,0 +1,31 @@
+class Solution {
+    public int minInsertions(String s) {
+        Stack <Character> st=new Stack<> ();
+        int count=0;
+        int depth=0;
+        for(int i=0;i<s.length();i++){
+                if(s.charAt(i)=='('){
+                    depth++;
+                }
+                else{
+
+                    if(i+1<s.length() &&  s.charAt(i+1)==')'){
+                        i++;
+                    }
+                    else{
+                        count++;
+                    }
+
+                    if(depth==0){
+                        count++;
+                    }
+                    else{
+                        depth--;
+                    }
+                }
+           
+        }
+        count +=depth <<1;
+        return count ;
+    }
+}
