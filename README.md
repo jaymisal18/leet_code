@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jaymisal18/leet_code/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/jaymisal18/leet_code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/jaymisal18/leet_code/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/jaymisal18/leet_code/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/jaymisal18/leet_code/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/jaymisal18/leet_code/tree/master/1480-running-sum-of-1d-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jaymisal18/leet_code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaymisal18/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/jaymisal18/leet_code/tree/master/0643-maximum-average-subarray-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jaymisal18/leet_code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Union-Find
 |  |
