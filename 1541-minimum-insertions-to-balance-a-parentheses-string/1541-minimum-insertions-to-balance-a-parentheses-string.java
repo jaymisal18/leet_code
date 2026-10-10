@@ -25,7 +25,7 @@ class Solution {
                 }
            
         }
-        count +=depth <<1;
+        count +=depth *2;
         return count ;
     }
 }
