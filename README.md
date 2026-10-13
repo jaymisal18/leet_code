@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymisal18/leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaymisal18/leet_code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaymisal18/leet_code/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jaymisal18/leet_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3838-weighted-word-mapping](https://github.com/jaymisal18/leet_code/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jaymisal18/leet_code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jaymisal18/leet_code/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jaymisal18/leet_code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/jaymisal18/leet_code/tree/master/0217-contains-duplicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jaymisal18/leet_code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jaymisal18/leet_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/jaymisal18/leet_code/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jaymisal18/leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jaymisal18/leet_code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jaymisal18/leet_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
