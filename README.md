@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/jaymisal18/leet_code/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/jaymisal18/leet_code/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/jaymisal18/leet_code/tree/master/1480-running-sum-of-1d-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaymisal18/leet_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jaymisal18/leet_code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymisal18/leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaymisal18/leet_code/tree/master/3483-unique-3-digit-even-numbers) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/jaymisal18/leet_code/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/jaymisal18/leet_code/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/jaymisal18/leet_code/tree/master/0217-contains-duplicate) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaymisal18/leet_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaymisal18/leet_code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaymisal18/leet_code/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Floyd's Cycle Finding Algorithm
@@ -234,4 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/jaymisal18/leet_code/tree/master/0678-valid-parenthesis-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaymisal18/leet_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaymisal18/leet_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
