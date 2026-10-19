@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/jaymisal18/leet_code/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/jaymisal18/leet_code/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/jaymisal18/leet_code/tree/master/1480-running-sum-of-1d-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jaymisal18/leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaymisal18/leet_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jaymisal18/leet_code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymisal18/leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jaymisal18/leet_code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jaymisal18/leet_code/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/jaymisal18/leet_code/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jaymisal18/leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymisal18/leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jaymisal18/leet_code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jaymisal18/leet_code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/jaymisal18/leet_code/tree/master/0217-contains-duplicate) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jaymisal18/leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jaymisal18/leet_code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/jaymisal18/leet_code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jaymisal18/leet_code/tree/master/3727-maximum-alternating-sum-of-squares) |
